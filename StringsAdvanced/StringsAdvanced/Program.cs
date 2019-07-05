@@ -121,55 +121,12 @@ namespace StringsAdvanced
                     Console.WriteLine($"{String.Join(" ", List)} liked your photo!");
                     return;
                 }
-                if (List.ToString().Equals(2))
-                {
-                    Console.WriteLine($"{String.Join(" ", List)} liked your photo!");
-                    return;
-                }
-                if (List.ToString().Equals(3))
-                {
-                    Console.WriteLine($"{String.Join(" ", List)} liked your photo!");
-                    return;
-                }
+              
             }
-        
-            
-
-
-               
-               
-                //else if (List.ToString().Length > 0)
-                //{
-                //    Console.WriteLine($"{String.Join(",", List)} liked your photo!");
-
-                //    return;
-                //}
-                //else if (List.ToString().Length > 0)
-                //{
-                //    Console.WriteLine($"{String.Join(",", List)} liked your photo!");
-                //    return;
-                //}
-                //else if (List.ToString().Length > 0)
-                //    {
-                //    Console.WriteLine($"{ String.Join(",", List)} liked your photo!");
-                //    return;
-                //    }
-            
-            
+         
         }
             
         
-        
-
-
-
-
-
-
-
-
-
-
         static string Ho()
         {
 
